@@ -3,6 +3,8 @@
 
 GoalTrackr is a modern and intuitive web application built with React for efficient tracking of study goals and tasks. Harnessing the power of React's state management, components, and derived state, GoalTrackr provides a seamless user experience for organizing and monitoring your educational and personal growth objectives.
 
+Through this project i've learned useState and state management.
+
 ## Site
 - [@Goal Master](https://goalmaster.netlify.app)
 
